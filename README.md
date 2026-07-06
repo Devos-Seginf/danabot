@@ -71,6 +71,6 @@ Y con esto ya terminamos el challenge.
 
 
 
-<img width="612" height="406" alt="devos" src="https://github.com/user-attachments/assets/8b150170-c735-4db3-9779-a92b8acda630" />
+<img width="990" height="406" alt="devos" src="https://github.com/user-attachments/assets/8b150170-c735-4db3-9779-a92b8acda630" />
 
 
