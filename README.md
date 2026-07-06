@@ -38,7 +38,8 @@ Echamos un vistazo al GET ;
 http.request.method=="GET"
 
 <img width="1991" height="194" alt="image" src="https://github.com/user-attachments/assets/14408faa-a384-4d36-b137-a9c822258127" />
-Ahí lo tenemos, 
+Ahí lo tenemos, un javascript;  "allegato_708.js"
 
+<img width="1375" height="504" alt="image" src="https://github.com/user-attachments/assets/3d9eac85-92c5-48cc-a4c1-cce96feccea9" />
 
 
