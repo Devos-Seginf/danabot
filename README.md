@@ -42,4 +42,15 @@ Ahí lo tenemos, un javascript;  "allegato_708.js"
 
 <img width="1375" height="504" alt="image" src="https://github.com/user-attachments/assets/3d9eac85-92c5-48cc-a4c1-cce96feccea9" />
 
+Para la tercera pregunta, voy a coger las conexiones desde Wireshark, File, Export Objects, http y las guardo en el tmp en el que está el pcap.
+<img width="1339" height="440" alt="image" src="https://github.com/user-attachments/assets/14ca2dba-337b-4097-88c7-3dabbe3f64f4" />
+Teniendo esto ya podemos calcular el SHA256 u otro desde la terminal;
+
+<img width="993" height="294" alt="image" src="https://github.com/user-attachments/assets/135e425c-e429-464e-96a2-86cca38bb4a0" />
+
+
+
+
+
+
 
