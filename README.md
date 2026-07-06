@@ -56,6 +56,21 @@ En la siguiente pregunta pide el proceso ejecutado, que ya tenemos en captura an
 
 <img width="1164" height="476" alt="image" src="https://github.com/user-attachments/assets/dc6d4c98-5497-4e19-b311-cdbb6dfdf9d6" />
 
-La siguiente pregunta pide la extensión del segundo archivo malicioso. Esto lo tenemos en la captura cuando hemos exportado los objetos http
+La siguiente pregunta pide la extensión del segundo archivo malicioso. Esto lo tenemos en la captura cuando hemos exportado los objetos http o en la imagen del flow de GET más arriba, "resources.dll".
+
+<img width="617" height="336" alt="image" src="https://github.com/user-attachments/assets/171662bf-7bcc-4a85-a657-e6722726031c" />
+
+En la última pregunta, pide el MD5 de resources.dll, que tenemos en detalles de VirusTotal ;
+
+<img width="1452" height="750" alt="image" src="https://github.com/user-attachments/assets/01f33151-51c8-4823-9ec7-493434b89508" />
+
+Y con esto ya terminamos el challenge.
+
+
+<img width="768" height="1046" alt="image" src="https://github.com/user-attachments/assets/0026df0c-fd88-429f-973b-a43e68f06d47" />
+
+
+
+<img width="612" height="406" alt="devos" src="https://github.com/user-attachments/assets/8b150170-c735-4db3-9779-a92b8acda630" />
 
 
