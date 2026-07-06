@@ -32,7 +32,7 @@ Para la segunda cuestión, echamos un vistazo a ver si ha subido algo, o si ya h
 http.request.method=="POST"
 
 <img width="1111" height="255" alt="image" src="https://github.com/user-attachments/assets/40454a4e-2103-46ba-b54c-4d21529f9511" />
-Que indica que no hay nada, con lo que debe haberlo subido antes..
+Que indica que no hay nada, a ver qué pasa con GET.
 
 Echamos un vistazo al GET ;
 http.request.method=="GET"
