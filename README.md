@@ -48,9 +48,14 @@ Teniendo esto ya podemos calcular el SHA256 u otro desde la terminal;
 
 <img width="993" height="294" alt="image" src="https://github.com/user-attachments/assets/135e425c-e429-464e-96a2-86cca38bb4a0" />
 
+La pregunta pide el sha256 de acceso inicial, con lo que es el del login, que echando un vistazo rápido a VirusTotal, en relaciones vemos los nombres que suele usar, y entre ellos el que hemos encontrado antes ;
 
+<img width="1226" height="1109" alt="image" src="https://github.com/user-attachments/assets/636e869a-0d24-48ac-a455-18c02da19cf7" />
 
+En la siguiente pregunta pide el proceso ejecutado, que ya tenemos en captura anterior en behavior de VirusTotal ;
 
+<img width="1164" height="476" alt="image" src="https://github.com/user-attachments/assets/dc6d4c98-5497-4e19-b311-cdbb6dfdf9d6" />
 
+La siguiente pregunta pide la extensión del segundo archivo malicioso. Esto lo tenemos en la captura cuando hemos exportado los objetos http
 
 
