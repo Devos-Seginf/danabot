@@ -67,7 +67,7 @@ En la última pregunta, pide el MD5 de resources.dll, que tenemos en detalles de
 Y con esto ya terminamos el challenge.
 
 
-<img width="768" height="1046" alt="image" src="https://github.com/user-attachments/assets/0026df0c-fd88-429f-973b-a43e68f06d47" />
+<img width="1452" height="1046" alt="image" src="https://github.com/user-attachments/assets/0026df0c-fd88-429f-973b-a43e68f06d47" />
 
 
 
