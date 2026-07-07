@@ -69,8 +69,11 @@ Y con esto ya terminamos el challenge.
 
 <center><img width="600" height="1046" alt="image" src="https://github.com/user-attachments/assets/0026df0c-fd88-429f-973b-a43e68f06d47" /></center>
 
+---
+
+<img width="700" height="400" alt="devos" src="https://github.com/user-attachments/assets/cff9beaf-10d6-444e-b97c-d147176c8d27" />
 
 
-<img width="990" height="406" alt="devos" src="https://github.com/user-attachments/assets/8b150170-c735-4db3-9779-a92b8acda630" />
+
 
 
