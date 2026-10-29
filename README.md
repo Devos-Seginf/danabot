@@ -16,6 +16,14 @@ Usaremos Kali sobre Proxmox como sistema operativo.
 <img width="2520" height="1091" alt="image" src="https://github.com/user-attachments/assets/87db19ec-664a-461a-910c-00be74bd8a24" />
 
 
+
+Para la obtención de contraseñas usaremos KeepasXC.
+
+<img width="801" height="645" alt="image" src="https://github.com/user-attachments/assets/0b2a9e06-f577-4c80-b25d-535f76f12d5c" />
+
+
+---
+
 Abrimos pcap con Wireshark
 
 <img width="1076" height="746" alt="image" src="https://github.com/user-attachments/assets/0c634be6-a40a-4f0d-b583-b1ea17018915" />
