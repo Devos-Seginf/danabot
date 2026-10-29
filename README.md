@@ -10,9 +10,10 @@ Escenario:
 
 
 
-Usaremos Kali como sistema operativo.
+Usaremos Kali sobre Proxmox como sistema operativo.
 
-<img width="657" height="503" alt="image" src="https://github.com/user-attachments/assets/39eb5f36-7422-4646-9fab-5569c8ba707a" />
+
+<img width="2520" height="1091" alt="image" src="https://github.com/user-attachments/assets/87db19ec-664a-461a-910c-00be74bd8a24" />
 
 
 Abrimos pcap con Wireshark
