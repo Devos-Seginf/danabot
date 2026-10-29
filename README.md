@@ -1,23 +1,29 @@
-# danabot (Network Forensics)
+# Network Forensics
 Analyze network traffic using Wireshark to identify DanaBot initial access, deobfuscate malicious JavaScript, and extract IOCs like IPs, file hashes, and execution processes.
 
+---
+
 Obtención de un pcap.
+
 <img width="538" height="357" alt="image" src="https://github.com/user-attachments/assets/52604251-b59a-4c45-a6a1-d20330de9102" />
+
+---
+
 
 Escenario:
 
 <img width="713" height="233" alt="image" src="https://github.com/user-attachments/assets/f38e7869-5400-467a-9ecf-3ad0e43b3cbd" />
 
-
+---
 
 Usaremos Kali sobre Proxmox como sistema operativo.
 
 
 <img width="2520" height="1091" alt="image" src="https://github.com/user-attachments/assets/87db19ec-664a-461a-910c-00be74bd8a24" />
 
+---
 
-
-Para la obtención de contraseñas usaremos KeepasXC.
+Para la obtención de credenciales usaremos KeepasXC.
 
 <img width="801" height="645" alt="image" src="https://github.com/user-attachments/assets/0b2a9e06-f577-4c80-b25d-535f76f12d5c" />
 
@@ -34,8 +40,9 @@ Para la primera cuestión, con Wireshark es sencillo ver al usar el filtro http 
 
 <img width="2433" height="183" alt="image" src="https://github.com/user-attachments/assets/356c487b-1ef2-496e-b4e9-97c48f9a1c31" />
 
+---
 
-Para la segunda cuestión, echamos un vistazo a ver si ha subido algo, o si ya hay algo en el servidor a qué llamar para establecer la conexión ;
+Para la segunda cuestión (Abajo), echamos un vistazo a ver si ha subido algo, o si ya hay algo en el servidor a qué llamar para establecer la conexión ;
 http.request.method=="POST"
 
 <img width="1111" height="255" alt="image" src="https://github.com/user-attachments/assets/40454a4e-2103-46ba-b54c-4d21529f9511" />
@@ -77,8 +84,6 @@ Y con esto ya terminamos el challenge.
 <center><img width="600" height="1046" alt="image" src="https://github.com/user-attachments/assets/0026df0c-fd88-429f-973b-a43e68f06d47" /></center>
 
 ---
-
-<img width="700" height="400" alt="devos" src="https://github.com/user-attachments/assets/cff9beaf-10d6-444e-b97c-d147176c8d27" />
 
 
 
