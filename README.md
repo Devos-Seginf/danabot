@@ -12,7 +12,7 @@ Obtención de un pcap o parte de un log.
 
 Escenario:
 
-<img width="713" height="233" alt="image" src="https://github.com/user-attachments/assets/f38e7869-5400-467a-9ecf-3ad0e43b3cbd" />
+Algún empleado nota lentitud en la red o encuentra algún archivo online que no debería ser público etc.
 
 ---
 
