@@ -1,9 +1,9 @@
 # Network Forensics
-Analyze network traffic using Wireshark to identify DanaBot initial access, deobfuscate malicious JavaScript, and extract IOCs like IPs, file hashes, and execution processes.
+Análisis de tráfico de red usando Wireshark para identificar el acceso inicial, anular la ofuscación de un Javascript malicioso y extraer loe IOC's (ip, hashes de archivos, ejecución de procesos etc.)
 
 ---
 
-Obtención de un pcap.
+Obtención de un pcap o parte de un log.
 
 <img width="538" height="357" alt="image" src="https://github.com/user-attachments/assets/52604251-b59a-4c45-a6a1-d20330de9102" />
 
