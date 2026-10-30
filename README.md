@@ -78,7 +78,7 @@ En la última pregunta, pide el MD5 de resources.dll, que tenemos en detalles de
 
 <img width="1452" height="750" alt="image" src="https://github.com/user-attachments/assets/01f33151-51c8-4823-9ec7-493434b89508" />
 
-Y con esto ya terminamos el challenge.
+Y con esto ya disponemos de toda la información relevante para enviar a la Dirección de empresa que determinará qué hacer legalmente etc.
 
 
 <center><img width="600" height="1046" alt="image" src="https://github.com/user-attachments/assets/0026df0c-fd88-429f-973b-a43e68f06d47" /></center>
